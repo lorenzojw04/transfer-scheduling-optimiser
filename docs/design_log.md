@@ -13,7 +13,8 @@ The snake method works by creating sequences of dependent moves, known as “sna
 At the time, I recognised that this process could potentially be automated, but I did not yet know how to code. I carefully planned all snakes and schedules by hand, buying the trains and making sure all timings were feasible.
 
 
-19th JANUARY 2026
+19th JANUARY 2026 - Code Development
+
 After completing a term of Computer Science at university, I have learned Python and feel ready to tackle automating this process myself. The goal is now to translate the snake method into code, generate the sequences programmatically, and automatically assign optimal travel arrangements based on train schedules.
 
 This is not the end however. The snake algorithm only handles the pairing of missionaries. I would then have to find suitable trains and match up the schedules so that, if possible, missionaries could ALWAYS travel together. This ensures they are not alone and can be helped along the way.
