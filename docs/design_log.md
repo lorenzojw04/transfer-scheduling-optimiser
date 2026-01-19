@@ -20,3 +20,6 @@ After completing a term of Computer Science at university, I have learned Python
 This is not the end however. The snake algorithm only handles the pairing of missionaries. I would then have to find suitable trains and match up the schedules so that, if possible, missionaries could ALWAYS travel together. This ensures they are not alone and can be helped along the way.
 
 But I will start with just developing the main 'snake method' algorithm first! I have big plans for this, such as adding a GUI and also giving the program to the Italy, Milan mission to see if it works!
+
+
+19th JANUARY 2026 - snake_plan_testing.py Created
