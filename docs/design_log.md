@@ -23,3 +23,8 @@ But I will start with just developing the main 'snake method' algorithm first! I
 
 
 19th JANUARY 2026 - snake_plan_testing.py Created
+
+26th JANUARY 2026 - test_environment.csv
+I realised that in order to be able to make the algorithm, I need to create a test environment or a test transfer with all of the usual changes so that I can design the algorithm around it. This will take some time
+
+
