@@ -27,6 +27,4 @@ But I will start with just developing the main 'snake method' algorithm first! I
 26th JANUARY 2026 - test_environment.csv
 I realised that in order to be able to make the algorithm, I need to create a test environment or a test transfer with all of the usual changes so that I can design the algorithm around it. This will take some time
 
-18th AUGUST 2026
-I have had a break from the project due to my studies and work but have some time off right now to be able to have a punt at the project!
-I realised that I need to first find some kind of suitable database of train schedules then I will build the project from that
+18th AUGUST 2026 -I have had a break from the project due to my studies and work but have some time off right now to be able to have a punt at the project! I realised that I need to first find some kind of suitable database of train schedules then I will build the project from that
